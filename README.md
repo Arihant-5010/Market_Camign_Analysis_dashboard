@@ -1,4 +1,4 @@
-# Market_Camign_Analysis_dashboard
+# Marketing Campaign Analysis Dashboard
 
 This Power BI dashboard provides a comprehensive analysis of marketing campaign performance across various channels, campaign types, and customer segments. It enables data-driven decision-making by visualizing key metrics such as impressions, clicks, conversion rate, and ROI.
 
