@@ -45,25 +45,6 @@ Power BI for data modeling and visualization
 
 DAX for calculated measures and metrics
 
-
-**Dataset Overview**
-
-Campaign performance data including:
-
-Campaign IDs
-
-Impressions
-
-Clicks
-
-Conversion rates
-
-ROI
-
-Customer segments
-
-Channel and campaign types
-
 **Outcomes**
 
 Provided actionable insights to help stakeholders refine campaign strategies
